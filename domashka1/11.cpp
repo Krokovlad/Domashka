@@ -4,7 +4,7 @@ using namespace std;
 
 int main() 
 { 
-    cout << "ass" << endl;
+    cout << "Влад" << endl;
     system("pause"); 
     return 0; 
 }
